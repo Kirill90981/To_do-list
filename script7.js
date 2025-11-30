@@ -89,7 +89,7 @@ delBtn.type = 'button';
 delBtn.title = 'Удалить';
 delBtn.setAttribute('aria-label', 'Удалить');
 delBtn.dataset.action = 'delete';
-delBtn.innerHTML = '<span class="icon">🗑️</span>';
+delBtn.innerHTML = '<span class="icon">🚮💩</span>';
 
 actions.append(editBtn, delBtn);
 
